@@ -1,5 +1,5 @@
 var canvas = new fabric.Canvas('c');
-var fonts = ["DejaVu Sans Condensed", "Aclonica", "AbrilFatface"];
+var fonts = ["DejaVu Sans Condensed", "Aclonica", "Abril Fatface"];
 
 var textbox = new fabric.Textbox('Lesisuky', {
   left: 50,
